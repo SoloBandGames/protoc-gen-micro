@@ -1,6 +1,6 @@
 module github.com/solobandgames/protoc-gen-micro
 
-go 1.20.4
+go 1.20
 
 require github.com/golang/protobuf v1.5.4
 
